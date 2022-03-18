@@ -3,7 +3,7 @@ import { siteInfo } from "site";
 import { IHttpClient, IHttpClientRequestParams } from "types/interfaces";
 import { toFormData } from "utils";
 
-axios.defaults.baseURL = siteInfo.API_URL;
+axios.defaults.baseURL = "http://45.177.127.116:7707/api";
 axios.defaults.timeout = 30000;
 
 export class HttpClient implements IHttpClient {
