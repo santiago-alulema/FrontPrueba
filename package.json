@@ -1,0 +1,71 @@
+{
+  "name": "radi-frontend",
+  "version": "0.1.0",
+  "description": "Radi front end",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "NODE_OPTIONS='--trace-warnings' next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@date-io/dayjs": "^2.11.0",
+    "@emotion/cache": "^11.4.0",
+    "@emotion/react": "^11.4.1",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@hookform/resolvers": "^2.8.3",
+    "@mui/icons-material": "^5.2.0",
+    "@mui/lab": "^5.0.0-alpha.50",
+    "@mui/material": "^5.2.2",
+    "axios": "^0.21.4",
+    "clsx": "^1.1.1",
+    "dayjs": "^1.10.7",
+    "decimal.js": "^10.3.1",
+    "js-cookie": "^3.0.1",
+    "localforage": "^1.10.0",
+    "lodash": "^4.17.21",
+    "next": "^11.1.2",
+    "next-compose-plugins": "^2.2.1",
+    "notistack": "^2.0.3",
+    "query-string": "^7.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-google-maps": "*",
+    "react-hook-form": "^7.20.4",
+    "react-intl": "^5.20.10",
+    "react-markdown": "^7.0.1",
+    "recharts": "^2.1.6",
+    "swr": "^1.0.1",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/google.maps": "^3.45.6",
+    "@types/js-cookie": "^2.2.7",
+    "@types/lodash": "^4.14.176",
+    "@types/next": "^9.0.0",
+    "@types/node": "^16.9.1",
+    "@types/react": "^17.0.21",
+    "@types/react-dom": "^17.0.9",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^11.1.2",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "2.4.1",
+    "typescript": "^4.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SistecEc/RadiFrontEnd.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "radi"
+  ],
+  "author": "Christian Orellana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SistecEc/RadiFrontEnd/issues"
+  },
+  "homepage": "https://github.com/SistecEc/RadiFrontEnd#readme"
+}

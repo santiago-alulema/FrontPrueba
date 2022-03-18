@@ -1,0 +1,20 @@
+{
+  "nav.home": "Home",
+  "nav.login": "Login",
+  "nav.contact_us": "Contact information",
+  "nav.contact_us_short": "Contact us",
+  "nav.map": "Where to find us",
+  "nav.cart": "Cart",
+  "nav.checkout": "Checkout",
+  "nav.faq": "FAQ",
+  "nav.covid19": "Measures against covid",
+  "nav.help": "Help center",
+  "nav.help_short": "Support",
+  "nav.otherServices": "Other services",
+  "nav.order": "Order",
+  "nav.order_received": "Order invoice",
+  "nav.work_with_us": "Work with us",
+  "nav.terms_and_conditions": "Terms and Services",
+  "nav.privacy_policy": "Privacy Policy",
+  "nav.about_us": "Who we are"
+}

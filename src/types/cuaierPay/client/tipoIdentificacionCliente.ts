@@ -1,0 +1,5 @@
+export enum TIPO_IDENTIFICACION_CLIENTE {
+    CEDULA = 1,
+    RUC = 2,
+    PASAPORTE = 3,
+}
