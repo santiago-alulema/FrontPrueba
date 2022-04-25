@@ -22,6 +22,7 @@ const nextConfig = {
       'api.radimercado.com',
       'source.unsplash.com',
       '45.177.127.116',
+      'dev-apiwise.radimercado.com'
     ],
   },
   webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
