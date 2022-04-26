@@ -21,6 +21,7 @@ const nextConfig = {
     domains: [
       'api.radimercado.com',
       'source.unsplash.com',
+      '45.177.127.116',
       'wise.radimercado.com',
       'dev-apiwise.radimercado.com'
     ],
