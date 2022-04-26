@@ -21,7 +21,8 @@ const nextConfig = {
     domains: [
       'api.radimercado.com',
       'source.unsplash.com',
-      'wise.radimercado.com'
+      'wise.radimercado.com',
+      'dev-apiwise.radimercado.com'
     ],
   },
   webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
