@@ -1,6 +1,5 @@
 
 import { Grid, Link, Skeleton } from '@mui/material';
-import { NoImage } from 'assets/images';
 import Image from 'components/image/image';
 import { useHomeBanner } from 'hooks';
 import React from 'react';
