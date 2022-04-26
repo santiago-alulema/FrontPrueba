@@ -128,7 +128,7 @@ export default function RecipesPage() {
                       color={'primary.main'}
                     >Ingredientes</Typography>
                     <Stack>
-                      {recipe.Ingredients.map((ingredient, index) => (
+                      {recipe.ingredients.map((ingredient, index) => (
                         <Typography key={index} gutterBottom
                           variant="h6">{ingredient}</Typography>
                       ))}
