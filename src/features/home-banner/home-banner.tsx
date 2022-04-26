@@ -17,7 +17,7 @@ export const HomeBanner = () => {
           :
           <Link href={bannerData?.href ?? HOME_PAGE}>
             <Image
-              src={bannerData?.imgUrl ?? NoImage}
+              src="https://wise.radimercado.com/Imagenes/ImagenesBaner/home_banner_2400_optimized_bfd73a240b.png"
               alt="home banner"
               objectFit="contain"
               height={700}
