@@ -23,7 +23,7 @@ const nextConfig = {
       'source.unsplash.com',
       '45.177.127.117',
       '45.177.127.116',
-      'http://45.177.127.116'
+      'wise.radimercado.com'
     ],
   },
   webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
