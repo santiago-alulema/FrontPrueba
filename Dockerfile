@@ -1,6 +1,6 @@
 FROM node:16.5
 
-ARG NEXT_PUBLIC_REST_API_ENDPOINT='http://45.177.127.116:7707/api'
+ARG NEXT_PUBLIC_REST_API_ENDPOINT='https://apiecm.radimercado.com/api'
 #'https://api.radimercado.com/agw'
 
 # create app dir
